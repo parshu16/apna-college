@@ -1,4 +1,4 @@
 # apna-college
 this is my first repository
 <br>
-author - parashuram
+author - parashuram(apna college)
